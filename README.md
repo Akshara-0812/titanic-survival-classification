@@ -54,9 +54,12 @@ as age, sex, ticket class, and fare, using the Titanic dataset from seaborn.
   Fare and Age.
 
 ## How to Run
-Open in Google Colab: [paste your Colab badge/link here]
+Open in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Akshara-0812/titanic-survival-classification/blob/main/YOUR_NOTEBOOK_NAME.ipynb)
 
 Or locally:
+
+    git clone https://github.com/Akshara-0812/titanic-survival-classification.git
+    cd titanic-survival-classification
     pip install -r requirements.txt
     jupyter notebook
 
